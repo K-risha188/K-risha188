@@ -43,8 +43,9 @@ Here are the top languages I have used across my repositories:
 ## My GitHub Streak
 
 Here’s my contribution streak:
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=K-risha188)   
+ <a href="https://github.com/K-risha188">
+    <img src="https://streak-stats.demolab.com?user=K-risha188&theme=dracula" alt="GitHub Streak" height="150"/>
+  </a>
 
 # My GitHub Profile
 
