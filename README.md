@@ -3,6 +3,23 @@
 <img src ="https://github.com/user-attachments/assets/ddf11499-5b48-4a60-b174-2579b5bde957" alt = "README_GIF" width = "700" />
 </center>
 
+# My Tech Stack
+
+Here are the technologies I work with:
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+
+
+# Trophy
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=K-risha188)
+
+
 # My GitHub Stats
 
 Here's a snapshot of my activity on GitHub:
@@ -13,11 +30,29 @@ Here's a snapshot of my activity on GitHub:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K-risha188&theme=dark&langs_count=5)
 
 
-# My GitHub Streak
 
-Here’s a snapshot of my current GitHub streak:
+## My GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=K-risha188&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
+Here’s my contribution streak:
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=K-risha188)   
+
+# My GitHub Profile
+
+## Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=K-risha188)
+
+# My GitHub Contributions
+
+Here's a visual representation of my GitHub contributions over the past year:
+
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=K-risha188&theme=radical)
+
+
+
+
+
 
 
 
