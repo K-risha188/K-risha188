@@ -1,4 +1,4 @@
-# WELCOME!
+# Welcome~
 <center>
 <img src ="https://github.com/user-attachments/assets/ddf11499-5b48-4a60-b174-2579b5bde957" alt = "README_GIF" width = "700" />
 </center>
@@ -14,12 +14,12 @@ I’m looking forward to growing my skills and contributing to projects on **Git
 
 - **Languages**: Python, C, Java
 - **Frameworks**: 
-- **Databases**: MySQL, MongoDB
+- **Databases**: MySQL
 - **Tools**: Git, Docker, VS Code
 
 ## 🚀 Current Projects
 
-[School Management System](link-to-repo): 
+[School Management System](https://github.com/K-risha188/Student_Management_System.git): A basic student, teacher and courses management system. <br><br>
 [Personal Portfolio Website](link-to-repo): A portfolio showcasing my projects and skills.
 
 
