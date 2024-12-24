@@ -1,7 +1,27 @@
-## Hi there 👋
+# WELCOME!
 <center>
 <img src ="https://github.com/user-attachments/assets/ddf11499-5b48-4a60-b174-2579b5bde957" alt = "README_GIF" width = "700" />
 </center>
+
+# About Me
+I’m currently pursuing a degree in **Computer Science and Engineering** with a specialization in **Artificial Intelligence**. Although CSE wasn’t originally my field of interest, I’ve started taking a genuine interest in it as I learn about new technologies. I’m excited to explore and learn more in this area as I continue my studies.
+
+I’m relatively new to GitHub and still learning the basics, but I’m eager to get involved and start contributing. Right now, I’m focusing on **Python**, which has become my favorite language to work with, although I’ve also learned **C** and **Java**.
+
+I’m looking forward to growing my skills and contributing to projects on **GitHub**. Feel free to explore my repositories and don't hesitate to connect if you have any suggestions, feedback, or want to collaborate!
+
+## 🛠️ Technologies & Tools
+
+- **Languages**: Python, C, Java
+- **Frameworks**: 
+- **Databases**: MySQL, MongoDB
+- **Tools**: Git, Docker, VS Code
+
+## 🚀 Current Projects
+
+[School Management System](link-to-repo): 
+[Personal Portfolio Website](link-to-repo): A portfolio showcasing my projects and skills.
+
 
 # My Tech Stack
 
@@ -60,7 +80,7 @@ Here's a visual representation of my GitHub contributions over the past year:
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=K-risha188&theme=radical)
 
 
-
+# JAI SHREE KRISHNA 🙏
 
 
 
