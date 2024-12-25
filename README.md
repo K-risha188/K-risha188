@@ -3,7 +3,7 @@
 <img src ="https://github.com/user-attachments/assets/ddf11499-5b48-4a60-b174-2579b5bde957" alt = "README_GIF" width = "700" />
 </center>
 
-# About Me
+# About Me 💁‍♀️
 I’m currently pursuing a degree in **Computer Science and Engineering** with a specialization in **Artificial Intelligence**. Although CSE wasn’t originally my field of interest, I’ve started taking a genuine interest in it as I learn about new technologies. I’m excited to explore and learn more in this area as I continue my studies.
 
 I’m relatively new to GitHub and still learning the basics, but I’m eager to get involved and start contributing. Right now, I’m focusing on **Python**, which has become my favorite language to work with, although I’ve also learned **C** and **Java**.
