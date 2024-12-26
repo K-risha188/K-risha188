@@ -22,7 +22,6 @@ I’m looking forward to growing my skills and contributing to projects on **Git
 [School Management System](https://github.com/K-risha188/Student_Management_System.git): A basic student, teacher and courses management system. <br><br>
 [Personal Portfolio Website](link-to-repo): A portfolio showcasing my projects and skills.
 
-
 # My Tech Stack
 
 Here are the technologies I work with:
@@ -47,18 +46,7 @@ Here's a snapshot of my activity on GitHub:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=K-risha188&show_icons=true&hide_title=true&count_private=true)
 
 ### My Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=K-risha188&theme=dark&langs_count=5)
-
-# My GitHub Profile
-
-## Languages I Use
-
-Here are the top languages I have used across my repositories:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-risha188)
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-risha188&layout=compact)
 
 ## My GitHub Streak
 
