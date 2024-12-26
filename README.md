@@ -46,7 +46,7 @@ Here's a snapshot of my activity on GitHub:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=K-risha188&show_icons=true&hide_title=true&count_private=true)
 
 ### My Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-risha188&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-risha188&layout=compact&theme=gruvbox&langs_count=7)
 
 ## My GitHub Streak
 
