@@ -52,7 +52,7 @@ Here's a snapshot of my activity on GitHub:
 
 Here’s my contribution streak:
  <a href="https://github.com/K-risha188">
-    <img src="https://streak-stats.demolab.com?user=K-risha188&theme=dracula" alt="GitHub Streak" height="150"/>
+    <img src="https://streak-stats.demolab.com?user=K-risha188&theme=radical" alt="GitHub Streak" height="150"/>
   </a>
 
 # My GitHub Profile
@@ -61,14 +61,8 @@ Here’s my contribution streak:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=K-risha188)
 
-# My GitHub Contributions
 
-Here's a visual representation of my GitHub contributions over the past year:
-
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=K-risha188&theme=radical)
-
-
-# JAI SHREE KRISHNA 🙏
+# ~JAI SHREE KRISHNA 🙏
 
 
 
