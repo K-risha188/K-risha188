@@ -48,7 +48,7 @@
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30" />
 </a>
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-@Krisha_Rathod-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/krisha-rathod-82100121b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B4I%2F%2FD8f%2FRrSgUwkIKJrBjA%3D%3D)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/krisha-rathod-82100121b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B4I%2F%2FD8f%2FRrSgUwkIKJrBjA%3D%3D)
 <!--- [Say hi on Twitter](https://twitter.com/johndoe)-->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=K-risha188)
