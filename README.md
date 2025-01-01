@@ -10,10 +10,10 @@
 **I have developed basic applications, including a Calculator app and a Fibonacci Series Generator app, using Android Studio as part of my learning experience in mobile app development.** 📱
 
 ## My Tech Stack 🔧
-- **Languages**: [![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)](https://github.com/your-username)
-  [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://github.com/your-username)
- [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/your-username)
-  [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/your-username)
+- **Languages**: [![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)](https://github.com/K-risha188)
+  [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://github.com/K-risha188)
+ [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/K-risha188)
+  [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/K-risha188)
 
 <!--- **Frameworks**: React, Node.js, Flask-->
 <!--- **Databases**: MySQL, MongoDB-->
