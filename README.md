@@ -1,3 +1,4 @@
+<!-- You can also add any inspirational gifs-->
 <p align = center>
 <img src ="https://github.com/user-attachments/assets/ddf11499-5b48-4a60-b174-2579b5bde957" alt = "README_GIF" width = "500" /> 
 <!--<img src ="https://www.bing.com/th/id/OGC.2c4dd7a30f05f672c1818182e99dcab0?pid=1.7&rurl=https%3a%2f%2fmedia2.giphy.com%2fmedia%2fl41Yh1olOKd1Tgbw4%2fgiphy.gif&ehk=hmxd2k9y4WQFloFtGX0E063O4qG8mDvZTJQh3l9zXFk%3d">-->
