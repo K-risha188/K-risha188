@@ -2,7 +2,7 @@
 <img src ="https://github.com/user-attachments/assets/ddf11499-5b48-4a60-b174-2579b5bde957" alt = "README_GIF" width = "500" />
 </center>
 
-GIF INSPIRATION (Profile) :   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/shreyassuresh)
+GIF INSPIRATION :  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/shreyassuresh)
 
 # Hello, I'm Rathod Krisha 🙋‍♀️
 
