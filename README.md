@@ -1,5 +1,3 @@
-#readme_info_considerations_
-
 # Welcome~
 <center>
 <img src ="https://github.com/user-attachments/assets/ddf11499-5b48-4a60-b174-2579b5bde957" alt = "README_GIF" width = "700" />
@@ -56,8 +54,6 @@ Here’s my contribution streak:
  <a href="https://github.com/K-risha188">
     <img src="https://streak-stats.demolab.com?user=K-risha188&theme=radical" alt="GitHub Streak" height="150"/>
   </a>
-
-  #resolve streak issue
 
 # My GitHub Profile
 
