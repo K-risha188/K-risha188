@@ -44,9 +44,8 @@
 - Favorite hobby: **Dancing** 💃
 
 ## 🌍 Find Me Elsewhere :
-- **Github** <a href="https://github.com/K-risha188" target="_blank">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30" />
-</a>
+- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/K-risha188)
+
 
 - Let's connect on  [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/krisha-rathod-82100121b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B4I%2F%2FD8f%2FRrSgUwkIKJrBjA%3D%3D)
 - Email: [krisharathod1645@gmail.com](mailto:krisharathod1645@gmail.com)
@@ -57,6 +56,14 @@
 
 # Trophy
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=K-risha188)-->
+
+<center>
+<img src ="https://github.com/user-attachments/assets/ddf11499-5b48-4a60-b174-2579b5bde957" alt = "README_GIF" width = "700" />
+</center>
+
+GIF INSPIRATION : [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/shreyassuresh)
+
+
 
 
 ## Jai Shree Krishna! 🙏
