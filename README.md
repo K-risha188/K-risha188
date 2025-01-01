@@ -33,8 +33,8 @@
 ## GitHub Streak 🔥
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=K-risha188&theme=dark)
 
-## My GitHub Activity 📈
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=K-risha188&bg_color=fff&color=36D1F0&line=36D1F0&point=000000)
+<!--## My GitHub Activity 📈
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=K-risha188)-->
 
 ## My Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-risha188&layout=compact&theme=gruvbox&langs_count=7)
@@ -43,15 +43,21 @@
 - After a rewarding career in dance, I’m now exploring the world of web development—something I never imagined I'd pursue! It’s funny how life leads you to unexpected paths.
 - Favorite hobby: **Dancing** 💃
 
-## Let's Connect! 🌍
-- Let's connect on **Github** <a href="https://github.com/K-risha188" target="_blank">
+## 🌍 Find Me Elsewhere :
+- **Github** <a href="https://github.com/K-risha188" target="_blank">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="30" />
 </a>
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/krisha-rathod-82100121b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B4I%2F%2FD8f%2FRrSgUwkIKJrBjA%3D%3D)
+- Let's connect on  [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/krisha-rathod-82100121b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B4I%2F%2FD8f%2FRrSgUwkIKJrBjA%3D%3D)
+- Email: [krisharathod1645@gmail.com](mailto:krisharathod1645@gmail.com)
 <!--- [Say hi on Twitter](https://twitter.com/johndoe)-->
-
 ![Profile Views](https://komarev.com/ghpvc/?username=K-risha188)
+
+<!--![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=K-risha188.visitor-badge)
+
+# Trophy
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=K-risha188)-->
+
 
 ## Jai Shree Krishna! 🙏
 
