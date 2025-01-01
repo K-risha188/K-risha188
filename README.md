@@ -12,9 +12,9 @@ GIF INSPIRATION :  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=
 [![GitHub Follow](https://img.shields.io/github/followers/K-risha188?style=social)](https://github.com/K-risha188)-->
 
 ## My Learning Journey 🚀
-**At the moment, I’m focusing on learning the fundamental languages for frontend development—HTML, CSS, and JavaScript—in order to deepen my understanding and build interactive and visually appealing websites.** 🤖
+*At the moment, I’m focusing on learning the fundamental languages for frontend development—**HTML, CSS, and JavaScript**—in order to deepen my understanding and build interactive and visually appealing websites.* 🤖
 <br>
-**I have developed basic applications, including a Calculator app and a Fibonacci Series Generator app, using Android Studio as part of my learning experience in mobile app development.** 📱
+*I have developed basic applications, including a **Calculator app** and a **Fibonacci Series Generator app**, using Android Studio as part of my learning experience in mobile app development.* 📱
 
 ## My Tech Stack 🔧
 - **Languages**: [![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)](https://github.com/K-risha188)
