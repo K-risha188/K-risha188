@@ -34,11 +34,11 @@
 ## GitHub Stats 📊
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=K-risha188&show_icons=true&theme=dark&count_private=true)
 
-## GitHub Streak 🔥
+<!--## GitHub Streak 🔥
 <p>
   <a href="https://github.com/K-risha188">
     <img src="https://streak-stats.demolab.com?user=K-risha188&theme=dracula" alt="GitHub Streak" height="150"/>
-  </a>
+  </a> -->
 
 
 ## My Top Languages
