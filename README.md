@@ -49,23 +49,6 @@
 
 
 ## 📊 GitHub Stats
-<!--<p align="center">
-  <a href="https://github.com/K-risha188">
-    <img src="https://streak-stats.demolab.com?user=K-risha188&theme=dracula&hide_border=false" alt="GitHub Streak" height="165"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/K-risha188">
-    <img src="https://github-readme-stats.vercel.app/api?username=K-risha188&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="165"/>
-  </a>
-</p>
-
-
- 
-  <a href="https://github.com/K-risha188">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-risha188&layout=compact&theme=dracula&include_all_commits=false&count_private=false" height="180"/>
-  </a>
-</p> -->
-
 
 <p align="center">
   <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=K-risha188&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
@@ -95,6 +78,7 @@
 
 ## My Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-risha188&layout=compact&theme=gruvbox&langs_count=7)
+
 
 ## Fun Facts 😎
 - After a rewarding career in dance, I’m now exploring the world of web development—something I never imagined I'd pursue! It’s funny how life leads you to unexpected paths.
