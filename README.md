@@ -14,7 +14,7 @@
 *I have developed basic applications, including a **Calculator app** and a **Fibonacci Series Generator app**, using Android Studio as part of my learning experience in mobile app development.* 📱
 
 ## My Tech Stack 🔧
-- **Languages**: <!--[![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)](https://github.com/K-risha188)
+<!--[![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)](https://github.com/K-risha188)
   [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://github.com/K-risha188)
  [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/K-risha188)
   [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/K-risha188) -->
@@ -28,24 +28,21 @@
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-- **Frameworks**:
+
  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-- **Databases**:
  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- **Operating Systems**:
  ![Android](https://img.shields.io/badge/Android-%2300B140.svg?style=for-the-badge&logo=android&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) 
 
-- **Version Control/tools and Coding Platforms**:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white)
@@ -53,7 +50,6 @@
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Leetcode](https://img.shields.io/badge/Leetcode-%23323330.svg?style=for-the-badge&logo=leetcode&logoColor=orange)
 
-- **Design and Productivity**:
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
