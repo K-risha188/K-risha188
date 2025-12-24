@@ -1,8 +1,8 @@
-<!-- You can also add any inspirational gifs-->
+<!-- You can also add any inspirational gifs
 <p align = center>
 <img src ="https://github.com/user-attachments/assets/ddf11499-5b48-4a60-b174-2579b5bde957" alt = "README_GIF" width = "500" /> 
 <img src ="https://www.bing.com/th/id/OGC.2c4dd7a30f05f672c1818182e99dcab0?pid=1.7&rurl=https%3a%2f%2fmedia2.giphy.com%2fmedia%2fl41Yh1olOKd1Tgbw4%2fgiphy.gif&ehk=hmxd2k9y4WQFloFtGX0E063O4qG8mDvZTJQh3l9zXFk%3d">
-</p>
+</p>-->
 
 <!--GIF INSPIRATION :  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/shreyassuresh)-->
 
@@ -18,9 +18,61 @@
   [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://github.com/K-risha188)
  [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/K-risha188)
   [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/K-risha188)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
-- **Frameworks**: React, Node.js, Flask
-- **Databases**: MySQL, MongoDB
+- **Frameworks**:
+ ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+- **Databases**:
+ ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+- **Operating Systems**:
+ ![Android](https://img.shields.io/badge/Android-%2300B140.svg?style=for-the-badge&logo=android&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) 
+
+- **Version Control and Coding Platforms**:
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-0052CC.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Leetcode](https://img.shields.io/badge/Leetcode-%23323330.svg?style=for-the-badge&logo=leetcode&logoColor=orange)
+
+- **Design and Productivity**:
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+
+## 📊 GitHub Stats
+<!--<p align="center">
+  <a href="https://github.com/K-risha188">
+    <img src="https://streak-stats.demolab.com?user=K-risha188&theme=dracula&hide_border=false" alt="GitHub Streak" height="165"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/K-risha188">
+    <img src="https://github-readme-stats.vercel.app/api?username=K-risha188&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="165"/>
+  </a>
+</p>
+
+
+ 
+  <a href="https://github.com/K-risha188">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-risha188&layout=compact&theme=dracula&include_all_commits=false&count_private=false" height="180"/>
+  </a>
+</p> -->
+
+
+<p align="center">
+  <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=K-risha188&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+</p>
+
+
+
 
 <!--## Projects I'm Proud Of 🏆
 - **[Weather App](https://github.com/johndoe/weather-app)**: A weather forecast app using React and OpenWeather API 🌤️
@@ -58,21 +110,9 @@
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:krisharathod1645@gmail.com)
 
 
-[Profile Views](https://komarev.com/ghpvc/?username=K-risha188)
+<!--[Profile Views](https://komarev.com/ghpvc/?username=K-risha188)-->
 
 ## Jai Shree Krishna! 🙏
 
 
-<!--**K-risha188/K-risha188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
