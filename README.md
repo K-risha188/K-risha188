@@ -53,7 +53,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -63,7 +63,7 @@
 
 
 
-<!--## Projects I'm Proud Of 🏆
+## Projects I'm Proud Of 🏆
 - **[Weather App](https://github.com/johndoe/weather-app)**: A weather forecast app using React and OpenWeather API 🌤️
 - **[Todo List](https://github.com/johndoe/todo-list)**: A simple to-do app with authentication built with Node.js and MongoDB ✅
 - **[Personal Portfolio](https://github.com/johndoe/portfolio)**: A personal portfolio built with HTML, CSS, and JavaScript 💼-->
@@ -95,8 +95,6 @@
 
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/krisha-rathod-82100121b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B4I%2F%2FD8f%2FRrSgUwkIKJrBjA%3D%3D) 
-<!-- - [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/Kinetic_Bliss_) New to Reddit
-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/kinetic_bliss_) New to Discord -->
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:krisharathod1645@gmail.com)
 
 
